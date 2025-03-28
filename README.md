@@ -2,7 +2,8 @@ Welcome to Dynamic Data Mindset's GitHub Portfolio 🚀
 
 A curated collection of data science and analytics projects, featuring machine learning models, data visualization, business intelligence solutions, and real-world case studies. Showcasing expertise in extracting insights, building predictive models, and solving complex data problems.
 
-About Me
+About Me:
+
 Hello! I'm Boniface Ramushu, a passionate Data Scientist & Analytics Consultant with expertise in machine learning, data visualization, and business intelligence. I help businesses unlock insights from data to drive better decision-making. This GitHub serves as my portfolio, showcasing projects that demonstrate my skills in data science and analytics.
 
 🔍 What You'll Find Here
